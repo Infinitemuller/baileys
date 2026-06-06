@@ -1,7 +1,7 @@
 {
   "name": "baileys",
   "type": "module",
-  "version": "7.0.0-rc13",
+  "version": "1.0.0-rc13",
   "description": "A websockets library for interacting with WhatsApp Web powered by MullerTech",
   "keywords": [
     "whatsapp",
